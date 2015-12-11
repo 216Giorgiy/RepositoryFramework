@@ -7,8 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryFramework", "Repo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImplementationFiles", "ImplementationFiles", "{0662C56A-FDFE-4D60-A013-D7142C3AA34D}"
 	ProjectSection(SolutionItems) = preProject
-		H:\New folder\Data.Utility.BaseRepository\Repository.cs = H:\New folder\Data.Utility.BaseRepository\Repository.cs
-		H:\New folder\Data.Utility.BaseRepository\UnitOfWork.cs = H:\New folder\Data.Utility.BaseRepository\UnitOfWork.cs
+		Repository.cs = Repository.cs
+		UnitOfWork.cs = UnitOfWork.cs
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Package", "Package", "{082C63B6-E5C0-45DA-8E9D-54E0793C6291}"

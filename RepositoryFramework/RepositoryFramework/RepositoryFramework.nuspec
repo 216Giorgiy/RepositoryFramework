@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RepositoryFramework</id>
+    <version>1.1</version>
+    <title>RepositoryFramework</title>
+    <authors>thrivikram</authors>
+    <owners>thrivikram</owners>
+    <projectUrl>https://github.com/thathwar/RepositoryFramework</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Repository pattern for Entityframework</description>
+    <releaseNotes>V1.0</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>repository entityframework</tags>
+  </metadata>
+</package>
